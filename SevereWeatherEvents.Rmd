@@ -1,0 +1,8 @@
+---
+title: "Effects of Severe Weather Events"
+author: "Rowan-James Tran"
+output: html_document
+---
+
+## Synopsis
+Placeholder until analysis is finished
